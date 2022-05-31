@@ -1,0 +1,26 @@
+.body_background 
+{
+    background-position: center;
+    background-size:cover;
+    background:url("https://th.bing.com/th/id/R.e5315dab56a1fb5df244ae1aa8caadf3?rik=bPSLWQKvFJoxpQ&riu=http%3a%2f%2fimg.xcitefun.net%2fusers%2f2014%2f07%2f359035%2cxcitefun-sunset-beach-9.jpg&ehk=OZuvLVdBMgz6k%2be3nnW%2bsLu1FibmsDrfHymgYnLK56k%3d&risl=&pid=ImgRaw&r=0");
+
+}
+#myCanvas
+{
+    border: width 50px;px;
+    border-style:double;
+    background:url("https://i.pinimg.com/474x/62/65/53/626553df8e1a646afaa81d04545f580a.jpg");
+
+
+	
+}
+
+
+#hd1{
+	display: inline-block;
+	
+	background: -webkit-linear-gradient(green, pink,yellow);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+	font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
